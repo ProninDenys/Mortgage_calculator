@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-!m7!)9ozfdb8b^sce3)u0v)f6r%#%y9c4mtxz#4j$qjr9w+4i=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['your-app-name.onrender.com', '127.0.0.1']
+ALLOWED_HOSTS = ['mortgage-calculator-hd1h.onrender.com', '127.0.0.1']
+
 
 
 
