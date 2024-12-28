@@ -1,1 +1,1 @@
-web: gunicorn mortgage_calculator.wsgi
+web: gunicorn mortgage_calculator.wsgi:application
