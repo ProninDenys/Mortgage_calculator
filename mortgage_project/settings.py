@@ -120,7 +120,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Path for static files during deployment
-STATICFILES_DIRS = [BASE_DIR / "calculator/static"]  # Указан правильный путь
+STATICFILES_DIRS = [BASE_DIR / "calculator/static"]  
 STATIC_ROOT = BASE_DIR / "staticfiles"
 
 # Default primary key field type
