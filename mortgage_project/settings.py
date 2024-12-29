@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-!m7!)9ozfdb8b^sce3)u0v)f6r%#%y9c4mtxz#4j$qjr9w+4i='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['mortgage-calculator-hd1h.onrender.com', 'mortgage-calculator-9gw8.onrender.com', '127.0.0.1']
 
