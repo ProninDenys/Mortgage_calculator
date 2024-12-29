@@ -37,8 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'calculator',
- 
+    'calculator',  # Приложение calculator
 ]
 
 MIDDLEWARE = [
@@ -120,7 +119,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Path for static files during deployment
-STATICFILES_DIRS = [BASE_DIR / "mortgage/calculator/static"]
+STATICFILES_DIRS = [BASE_DIR / "calculator/static"]  # Указан правильный путь
 STATIC_ROOT = BASE_DIR / "staticfiles"
 
 # Default primary key field type
