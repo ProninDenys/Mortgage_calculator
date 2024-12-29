@@ -1,1 +1,1 @@
-web: gunicorn mortgage_project.wsgi:application
+web: gunicorn mortgage_project.wsgi:application --log-file -
