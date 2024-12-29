@@ -33,6 +33,7 @@ The **Mortgage Calculator** is a Django-based web application designed to calcul
   - CSS (custom styles and Bootstrap 5)
   - JavaScript (clear button functionality)
   - Font Awesome (for icons)
+- **Static File Serving:** WhiteNoise
 
 ## Folder Structure
 
@@ -93,6 +94,9 @@ Mortgage_calculator/
 6. **Access the Application:**
     Open your browser and navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
+7. **Deployed Application:**
+    Access the deployed application at [https://mortgage-calculator-9gw8.onrender.com](https://mortgage-calculator-9gw8.onrender.com).
+
 ## How to Use
 
 1. Enter the loan amount, loan term (in years), and interest rate (%).
@@ -115,3 +119,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - **Bootstrap 5** for responsive design.
 - **Font Awesome** for elegant icons.
 - **Community Resources** for tutorials and guidance.
+
